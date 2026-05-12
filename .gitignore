@@ -8,7 +8,7 @@ venv/
 # Data and generated artifacts
 data/
 .cache/
-outputs/*
+# outputs/*
 !outputs/.gitkeep
 *.zip
 *.tar.gz
